@@ -1,6 +1,6 @@
 # Causal Inference
 
-This repository is notes from the Udacity Course [Causal Inference](https://www.udacity.com/enrollment/cd14250), conducted by Jonathan Hershaff.
+This repository is notes from the Udacity Course [Causal Inference](https://www.udacity.com/enrollment/cd14250), conducted by Jonathan Hershaff. The original notebooks from this class is also available [here](https://github.com/udacity/causal-inference-foundations/tree/main) on github.
 
 1. Correlation vs Causation
 2. Two Languages of Causality: DAG and Potential Outcomes Framework
