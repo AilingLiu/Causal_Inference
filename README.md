@@ -6,3 +6,5 @@ This repository is notes from the Udacity Course [Causal Inference](https://www.
 2. Two Languages of Causality: DAG and Potential Outcomes Framework
 3. Interrupted Time Series
 4. Interrupted Time Series Exercise
+5. Difference in Differences (DiD)
+6. DiD exercise
